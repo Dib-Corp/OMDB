@@ -6,6 +6,7 @@ this progect does not have much rn but im in the process of devloping currently
 #What Info Do I Provide In my DataBase 
 
 **Ratings**
+i have default ratings from tmdb 
 
 **Cover**
 
@@ -13,4 +14,6 @@ this progect does not have much rn but im in the process of devloping currently
 
 **Runtime**
 
-**EndYear,StartYear,isAdult,Genres**
+**EndYear,StartYear,isAdult,Genres,more**
+
+
