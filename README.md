@@ -5,7 +5,7 @@
 OpenMediaDataBase is an open-source Movie and TV database for developers.  
 This project does not have much right now, but I'm currently in the process of developing it.
 
-# What Info Do I Provide In My Database?
+## What Info Do I Provide In My Database?
 
 - **Ratings**  
   Default ratings from TMDB  
