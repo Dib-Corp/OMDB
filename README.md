@@ -6,6 +6,7 @@ this progect does not have much rn but im in the process of devloping currently
 #What Info Do I Provide In my DataBase 
 
 **Ratings**
+
 i have default ratings from tmdb 
 
 **Cover**
