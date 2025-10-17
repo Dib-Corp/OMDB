@@ -1,4 +1,4 @@
-![Company Logo](https://raw.githubusercontent.com/Dib-Corp/OMDB/refs/heads/main/TVMDB-LOGO.png "Our Company Logo")
+![Company Logo](https://raw.githubusercontent.com/Dib-Corp/OMDB/refs/heads/main/OMDB-LOGO.png")
 
 # OMDB
 
