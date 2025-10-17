@@ -1,22 +1,22 @@
-![Company Logo](https://raw.githubusercontent.com/Dib-Corp/OMDB/refs/heads/main/TVMDB-LOGO.png"Our Company Logo")
+![Company Logo](https://raw.githubusercontent.com/Dib-Corp/OMDB/refs/heads/main/TVMDB-LOGO.png "Our Company Logo")
 
-#OMDB
+# OMDB
 
-OpenMediaDataBase Is a Open Source Movie,Tv Database for devlopers 
-this progect does not have much rn but im in the process of devloping currently 
+OpenMediaDataBase is an open-source Movie and TV database for developers.  
+This project does not have much right now, but I'm currently in the process of developing it.
 
-#What Info Do I Provide In my DataBase 
+## What Info Do I Provide In My Database?
 
-**Ratings**
+- **Ratings**  
+  Default ratings from TMDB  
 
-i have default ratings from tmdb 
+- **Cover**
 
-**Cover**
+- **Description**
 
-**Description**
+- **Runtime**
 
-**Runtime**
+- **End Year, Start Year, isAdult, Genres, more**
 
-**EndYear,StartYear,isAdult,Genres,more**
 
 
