@@ -1,3 +1,5 @@
+![Company Logo]("Our Company Logo")
+
 #OMDB
 
 OpenMediaDataBase Is a Open Source Movie,Tv Database for devlopers 
