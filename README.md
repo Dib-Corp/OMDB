@@ -1,4 +1,7 @@
-![Company Logo](https://raw.githubusercontent.com/Dib-Corp/OMDB/refs/heads/main/OMDB-LOGO.png)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dib-Corp/OMDB/refs/heads/main/OMDB-LOGO.png" alt="Sublime's custom image"/>
+</p>
 
 # OMDB
 
